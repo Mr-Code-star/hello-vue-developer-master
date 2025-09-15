@@ -1,0 +1,21 @@
+{
+  "name": "hello-vue-developer",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "description": "A Hello Developer project for Vue.js",
+  "author": "Web Applications Development Team",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^3.5.18"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.1",
+    "vite": "^7.1.2"
+  }
+}
